@@ -15,7 +15,7 @@ I'm a final year student at IIIT Kalyani.
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](www.linkedin.com/in/prince-raj-966ba3269)
+- [LinkedIn](https://www.linkedin.com/in/prince-raj-966ba3269/)
 - 📧 Email: princerajsonepur@gmail.com
 
 ---
