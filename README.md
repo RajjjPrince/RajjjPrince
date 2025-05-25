@@ -3,7 +3,8 @@
 I'm a passionate developer who loves exploring new technologies and building innovative projects.  
 I'm a final year student at IIIT Kalyani.
 
-📍 https://github.com/<RajjjPrince>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RajjjPrince&show_icons=true&theme=default)
+
 
 
 
