@@ -1,5 +1,16 @@
+<!-- Profile Header Background -->
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Header Image" width="100%">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Prince Raj</h1>
 <h3 align="center">🚀 Full Stack Developer | Java | Spring Boot | MySQL | Docker</h3>
+
+<!-- Profile Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RajjjPrince&label=Profile%20views&color=0e75b6&style=flat" alt="view counter"/>
+</p>
 
 ---
 
