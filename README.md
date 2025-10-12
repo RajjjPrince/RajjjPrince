@@ -1,8 +1,10 @@
 <!-- Profile Header Background -->
 <p align="center">
+  <img src="github_background.jpg" alt="Header Image" width="100%">
+</p>
+<p align="center">
   <img src="https://i.imgur.com/waxVImv.png" alt="Header Image" width="100%">
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Prince Raj</h1>
 <h3 align="center">🚀 Full Stack Developer | Java | Spring Boot | MySQL | Docker</h3>
@@ -12,7 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=RajjjPrince&label=Profile%20views&color=0e75b6&style=flat" alt="view counter"/>
 </p>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Header Image" width="100%">
+</p>
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -27,7 +31,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Header Image" width="100%">
+</p>
 
 ### 💻 Tech Stack:
 
@@ -43,7 +49,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Header Image" width="100%">
+</p>
 
 ### ⚙️ Tools & Platforms
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -53,7 +61,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Header Image" width="100%">
+</p>
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -61,7 +71,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajjjPrince&theme=tokyonight" height="165">
 </p>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Header Image" width="100%">
+</p>
 
 ### 🚀 About Me
 - 🌱 I’m currently learning **Machine Learning & Generative AI**
@@ -69,6 +81,8 @@
 - 💬 Ask me about **Java, Spring Boot, MySQL, Docker**
 - ⚡ Fun fact: I love building AI + IoT based projects
 
----
+<p align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Header Image" width="100%">
+</p>
 
 ⭐ **Feel free to explore my repositories and drop a star if you like my work!**
