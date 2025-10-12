@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/prince-raj-966ba3269" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:princerajsonepur@gmail.com" target="_blank">
+ <a href="https://mail.google.com/mail/?view=cm&to=princerajsonepur@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
   <a href="https://github.com/RajjjPrince" target="_blank">
